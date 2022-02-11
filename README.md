@@ -19,8 +19,8 @@
 ⚡ &nbsp;Fun fact: I love my 2 :cat:s and I read a lot (a lot)
 
 </td>
-<td>
-    <a href="https://app.daily.dev/raulmarindev"><img src="https://api.daily.dev/devcards/bdcad6e80367482b9836659daa2114f1.png?r=9q8" width="100%" alt="Raúl Marín's Dev Card"/></a>
+<td align="center">
+    <a href="https://app.daily.dev/raulmarindev"><img src="https://api.daily.dev/devcards/bdcad6e80367482b9836659daa2114f1.png?r=9q8" width="300px" alt="Raúl Marín's Dev Card"/></a>
   </td>
 
 </tr>
@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/9123724" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="raulmarindev stackoverflow" /></a>
 
 <h3 align="left">Languages&nbsp;and&nbsp;Technologies:</h3>
-
+<p>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"/>
@@ -45,8 +45,10 @@
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongo"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png" alg="graphql"/>
+  </p>
 
 <h3 align="left">Tools:</h3>
+<p>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visual studio code"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visual studio"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
@@ -57,7 +59,7 @@
 <img src="https://img.icons8.com/color/48/000000/discord.png" alt="discord"/>
 <img src="https://img.icons8.com/color/48/000000/trello.png" alt="trello"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"/>
-
+</p>
 <p align="center" style="margin-top: 25px">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulmarindev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="raulmarindev" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raulmarindev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="raulmarindev" />
