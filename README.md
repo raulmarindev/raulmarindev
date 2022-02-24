@@ -47,6 +47,16 @@ My favorite ones are ASP.Net Core, Node.js, Next.js and Vercel.
 ## My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [What Backend Should You Use for React?](https://app.daily.dev/posts/mDk-gGApI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [17 Killer Websites for Web Developers](https://app.daily.dev/posts/wlofD5Xb7?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Difference between tilde &lpar;~&rpar; and caret &lpar;^&rpar; in package.json](https://app.daily.dev/posts/a4tJtYeke?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [This is how you make images Responsive in CSS](https://app.daily.dev/posts/gSC8S2awL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [The React Cheatsheet for 2022](https://app.daily.dev/posts/QlxZmdtTb?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [JavaScript Cheat Sheet that you should bookmark](https://app.daily.dev/posts/urcATGsz-?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Front End Development Trends to Watch in 2022](https://app.daily.dev/posts/fW2QIz9up?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Make Your GitHub Profile Standout To Attract Better Opportunities](https://app.daily.dev/posts/jfYl1brGp?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way](https://app.daily.dev/posts/TbXeX-cyd?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Learn TypeScript – The Ultimate Beginners Guide](https://app.daily.dev/posts/aD-MqR64k?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
