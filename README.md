@@ -67,6 +67,11 @@
 </p>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [What Backend Should You Use for React?](https://app.daily.dev/posts/mDk-gGApI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [17 Killer Websites for Web Developers](https://app.daily.dev/posts/wlofD5Xb7?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Difference between tilde &lpar;~&rpar; and caret &lpar;^&rpar; in package.json](https://app.daily.dev/posts/a4tJtYeke?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [This is how you make images Responsive in CSS](https://app.daily.dev/posts/gSC8S2awL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [The React Cheatsheet for 2022](https://app.daily.dev/posts/QlxZmdtTb?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 <p style="font-size: 10px">Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a>
