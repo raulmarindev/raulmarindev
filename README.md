@@ -65,7 +65,7 @@
 </p>
 
 <h3 align="left">Daily.dev Bookmarks:</h3>
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
 
 <p style="font-size: 10px">Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a>
