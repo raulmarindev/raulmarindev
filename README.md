@@ -71,21 +71,6 @@
 - [Difference between tilde &lpar;~&rpar; and caret &lpar;^&rpar; in package.json](https://app.daily.dev/posts/a4tJtYeke?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [This is how you make images Responsive in CSS](https://app.daily.dev/posts/gSC8S2awL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [The React Cheatsheet for 2022](https://app.daily.dev/posts/QlxZmdtTb?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [JavaScript Cheat Sheet that you should bookmark](https://app.daily.dev/posts/urcATGsz-?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Front End Development Trends to Watch in 2022](https://app.daily.dev/posts/fW2QIz9up?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Make Your GitHub Profile Standout To Attract Better Opportunities](https://app.daily.dev/posts/jfYl1brGp?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way](https://app.daily.dev/posts/TbXeX-cyd?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Learn TypeScript – The Ultimate Beginners Guide](https://app.daily.dev/posts/aD-MqR64k?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [21+ Super DevTools you may have not heard of](https://app.daily.dev/posts/toLYo1whZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [30 browser extensions every developer should have](https://app.daily.dev/posts/kVhHn4c6S?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [17 Killer Web Apps You Should Use to Increase Productivity 🚀💯](https://app.daily.dev/posts/j33ACqW2T?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [How to create a fancy Github profile with README?](https://app.daily.dev/posts/oVTkFdKHB?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [The 60 Hottest Front-end Tools of 2021 | CSS-Tricks](https://app.daily.dev/posts/He-FMzTRL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Best VS code Extensions for Web Development](https://app.daily.dev/posts/e6Xvg9f4F?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Free React Course for 2022](https://app.daily.dev/posts/-_KqydLUC?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Animated 3D Backgrounds For Your Website](https://app.daily.dev/posts/x8VutRbQs?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [How to Get Started As a Front-end Web Developer in 2022 &lpar;Complete Roadmap with Free Resources&rpar;](https://app.daily.dev/posts/m0eKYDCBs?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://app.daily.dev/posts/__kOFJPyN?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 <p style="font-size: 10px">Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a>
