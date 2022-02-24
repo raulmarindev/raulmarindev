@@ -66,7 +66,7 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raulmarindev&theme=highcontrast&hide_border=true" alt="raulmarindev" />
 </p>
 
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
 
 <p style="font-size: 10px">Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a>
