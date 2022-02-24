@@ -6,11 +6,11 @@
 
 <table>
 <tr>
-  <td valign="center" style="width: 68%">
+  <td valign="top" style="width: 75%">
 
 🔭 &nbsp;I’m currently working on **mentoring** and guiding a few **amazing junior developers**
 
-🌱 &nbsp;I’m currently learning **Remix**
+🌱 &nbsp;I’m currently learning **Svelte**
 
 💬 &nbsp;Ask me about anything related to **Javascript/Typescript** or **React/NextJS**
 
@@ -63,5 +63,8 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raulmarindev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="raulmarindev" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raulmarindev&theme=highcontrast&hide_border=true" alt="raulmarindev" />
 </p>
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
 
 <p style="font-size: 10px">Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a>
