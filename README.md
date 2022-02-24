@@ -1,15 +1,15 @@
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Raúl</h1>
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Raúl
 
-<h3 align="center">An experienced web developer who loves mentoring other devs.</h3>
+### An experienced web developer who loves mentoring and guiding other devs.
 
 <a href="https://dev.to/raulmarindev" target="blank"><img align="center" src="https://img.icons8.com/windows/48/000000/dev.png" alt="raulmarindev dev.to" /></a>
 <a href="https://twitter.com/raulmarindev" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="raulmarindev twitter"  /></a>
 <a href="https://linkedin.com/in/raulmarindev" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="raulmarindev linkedin" /></a>
 <a href="https://stackoverflow.com/users/9123724" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="raulmarindev stackoverflow" /></a>
 
-<h4>For over 12 years I have worked in different companies as a web programmer and I have always been characterized by my ability to learn and use very different technologies. 🚀</h4>
+#### For over 12 years I've worked at several great companies and I've always been characterized by my ability to use and teach the best technologies and practices. 🚀
 
-🔭 &nbsp;I’m currently working on **mentoring** and guiding a few **amazing junior developers**
+🔭 &nbsp;I’m currently working on **Mentoring** and guiding a few **amazing junior developers**
 
 🌱 &nbsp;I’m currently learning **Svelte**
 
@@ -17,7 +17,7 @@
 
 📫 &nbsp;One way to reach me: [@raulmarindev](https://twitter.com/raulmarindev)
 
-⚡ &nbsp;Fun fact: I love my 2 :cat:s and I read a lot (a lot)
+⚡ &nbsp;Fun fact: I love my 2 :cat:s and I read a lot (a lot) 📚
 
 ---
 
@@ -28,7 +28,7 @@
 ## 🥞 My Tech Stack
 
 I work with many different technologies and languages.
-My favorite ones are ASP.Net Core, Node.js, Next.js and Vercel.
+My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte and Vercel.
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"/>
@@ -44,7 +44,7 @@ My favorite ones are ASP.Net Core, Node.js, Next.js and Vercel.
 <img src="https://img.icons8.com/color/48/000000/graphql.png" alg="graphql"/>
 </p>
 
-## My daily.dev Bookmarks
+## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
 <!-- daily.dev BOOKMARKS:END -->
@@ -64,4 +64,9 @@ My favorite ones are ASP.Net Core, Node.js, Next.js and Vercel.
 <img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"/>
 </p>
 
-<p style="font-size: 10px">Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a>
+## 💻 My Most Used Languages 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulmarindev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p style="font-size: 8px">Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a>
