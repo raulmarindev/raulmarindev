@@ -62,10 +62,9 @@
 </p>
 <p align="center" style="margin-top: 25px">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulmarindev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="raulmarindev" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raulmarindev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="raulmarindev" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raulmarindev&theme=highcontrast&hide_border=true" alt="raulmarindev" />
 </p>
 
+<h3 align="left">Daily.dev Bookmarks:</h3>
 <!--  daily.dev BOOKMARKS:START -->
 <!--  daily.dev BOOKMARKS:END -->
 
