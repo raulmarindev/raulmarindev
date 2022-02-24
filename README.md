@@ -30,6 +30,7 @@
 I work with many different technologies and languages.
 My favorite ones are ASP.Net Core, Node.js, Next.js and Vercel.
 
+<p>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"/>
@@ -41,6 +42,7 @@ My favorite ones are ASP.Net Core, Node.js, Next.js and Vercel.
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongo"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png" alg="graphql"/>
+</p>
 
 ## My daily.dev Bookmarks
 
@@ -49,6 +51,7 @@ My favorite ones are ASP.Net Core, Node.js, Next.js and Vercel.
 
 ## 🧰 My Favorite Tools
 
+<p>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visual studio code"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visual studio"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
@@ -59,5 +62,6 @@ My favorite ones are ASP.Net Core, Node.js, Next.js and Vercel.
 <img src="https://img.icons8.com/color/48/000000/discord.png" alt="discord"/>
 <img src="https://img.icons8.com/color/48/000000/trello.png" alt="trello"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"/>
+</p>
 
 <p style="font-size: 10px">Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a>
