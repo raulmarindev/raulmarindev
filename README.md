@@ -47,6 +47,8 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [React Awesome Shapes](https://app.daily.dev/posts/FjOGr31dl?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Exotic Objects in JavaScript](https://app.daily.dev/posts/YVPTfPdzc?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [What Backend Should You Use for React?](https://app.daily.dev/posts/mDk-gGApI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [17 Killer Websites for Web Developers](https://app.daily.dev/posts/wlofD5Xb7?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Difference between tilde &lpar;~&rpar; and caret &lpar;^&rpar; in package.json](https://app.daily.dev/posts/a4tJtYeke?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -55,8 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [JavaScript Cheat Sheet that you should bookmark](https://app.daily.dev/posts/urcATGsz-?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Front End Development Trends to Watch in 2022](https://app.daily.dev/posts/fW2QIz9up?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Make Your GitHub Profile Standout To Attract Better Opportunities](https://app.daily.dev/posts/jfYl1brGp?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Learn TypeScript – The Ultimate Beginners Guide](https://app.daily.dev/posts/aD-MqR64k?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [21+ Super DevTools you may have not heard of](https://app.daily.dev/posts/toLYo1whZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
