@@ -47,6 +47,7 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Web Standards Are Cool Again](https://app.daily.dev/posts/JLikLLxtH?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Open Source Alternative To - Discover open source alternatives to your proprietary SaaS](https://app.daily.dev/posts/dtPnynd-4?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [The Code Review Pyramid](https://app.daily.dev/posts/A5Tm76E59?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [CSS to Tailwind converter – Windy](https://app.daily.dev/posts/gJSJ0ziW2?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -56,7 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [How not to learn TypeScript](https://app.daily.dev/posts/Jz3Ywx6Ze?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [How to design better APIs](https://app.daily.dev/posts/Ft5u2BJEl?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [10 amazing games to learn CSS](https://app.daily.dev/posts/fH5ZB32dn?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [CSS Tricks to Create that Dark Futuristic Web3 Look](https://app.daily.dev/posts/vbI5cpMIG?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
