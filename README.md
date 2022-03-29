@@ -47,6 +47,7 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Understanding Layout Algorithms](https://app.daily.dev/posts/WKhw_upV9?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [React useEffect cleanup](https://app.daily.dev/posts/AytS9cXyG?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Web Standards Are Cool Again](https://app.daily.dev/posts/JLikLLxtH?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Open Source Alternative To - Discover open source alternatives to your proprietary SaaS](https://app.daily.dev/posts/dtPnynd-4?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -56,7 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [git config – How to Configure Git Settings to Improve Your Development Workflow](https://app.daily.dev/posts/QyrWtbzvA?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Skill Icons - Showcase your skills on your GitHub or resumé with ease](https://app.daily.dev/posts/-VEmzAHJr?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [How not to learn TypeScript](https://app.daily.dev/posts/Jz3Ywx6Ze?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [How to design better APIs](https://app.daily.dev/posts/Ft5u2BJEl?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
