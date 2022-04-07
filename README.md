@@ -47,6 +47,7 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Why you should use Chakra UI in React](https://app.daily.dev/posts/aAOPbdnmL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Best practices to increase the speed for Next.js apps](https://app.daily.dev/posts/tOZKn2_71?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [React v18.0 – React Blog](https://app.daily.dev/posts/aawnY58HD?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Scopes In Javascript.](https://app.daily.dev/posts/8XD2eALtu?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -56,7 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [Understanding Layout Algorithms](https://app.daily.dev/posts/WKhw_upV9?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [React useEffect cleanup](https://app.daily.dev/posts/AytS9cXyG?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Web Standards Are Cool Again](https://app.daily.dev/posts/JLikLLxtH?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Open Source Alternative To - Discover open source alternatives to your proprietary SaaS](https://app.daily.dev/posts/dtPnynd-4?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
