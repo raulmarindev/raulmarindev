@@ -47,6 +47,7 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Those HTML Elements You Never Use 🌚🕵🏿](https://app.daily.dev/posts/uQ1mWUmvI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://app.daily.dev/posts/bpuRFMHtb?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Why you should use Chakra UI in React](https://app.daily.dev/posts/aAOPbdnmL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Best practices to increase the speed for Next.js apps](https://app.daily.dev/posts/tOZKn2_71?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -56,7 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [When to use GraphQL, gRPC, REST, and Webhooks](https://app.daily.dev/posts/72aN_B27u?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [The best styling options for Next.js](https://app.daily.dev/posts/qmnSzuZpN?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Understanding Layout Algorithms](https://app.daily.dev/posts/WKhw_upV9?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [React useEffect cleanup](https://app.daily.dev/posts/AytS9cXyG?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
