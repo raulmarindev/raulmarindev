@@ -47,6 +47,7 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [ngrok - Your code online in one line](https://app.daily.dev/posts/w7DDyGIcL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [3 Design Patterns Every Developer Should Learn](https://app.daily.dev/posts/Iq36FCdDZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Those HTML Elements You Never Use 🌚🕵🏿](https://app.daily.dev/posts/uQ1mWUmvI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://app.daily.dev/posts/bpuRFMHtb?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -56,7 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [Scopes In Javascript.](https://app.daily.dev/posts/8XD2eALtu?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Coolify - An open-source &amp; self-hostable Heroku / Netlify alternative](https://app.daily.dev/posts/gBLrqEkP_?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [When to use GraphQL, gRPC, REST, and Webhooks](https://app.daily.dev/posts/72aN_B27u?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [The best styling options for Next.js](https://app.daily.dev/posts/qmnSzuZpN?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
