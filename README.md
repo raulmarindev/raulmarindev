@@ -47,6 +47,7 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Introducing JSON Hero: an open-source, beautiful JSON viewer for the web that lets you browse, search and navigate your JSON files at speed. 🚀](https://app.daily.dev/posts/j2mQwvq0D?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Best Chrome Extensions to boost GitHub](https://app.daily.dev/posts/Ze13S0k8x?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [ngrok - Your code online in one line](https://app.daily.dev/posts/w7DDyGIcL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [3 Design Patterns Every Developer Should Learn](https://app.daily.dev/posts/Iq36FCdDZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -56,7 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [Best practices to increase the speed for Next.js apps](https://app.daily.dev/posts/tOZKn2_71?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [React v18.0 – React Blog](https://app.daily.dev/posts/aawnY58HD?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Scopes In Javascript.](https://app.daily.dev/posts/8XD2eALtu?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Coolify - An open-source &amp; self-hostable Heroku / Netlify alternative](https://app.daily.dev/posts/gBLrqEkP_?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
