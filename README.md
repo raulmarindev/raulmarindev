@@ -47,6 +47,8 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to detect dead code in a frontend project](https://app.daily.dev/posts/OqwGWN_j3?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Free Open Source Tailwind CSS Components](https://app.daily.dev/posts/tqkHClA01?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Introducing JSON Hero: an open-source, beautiful JSON viewer for the web that lets you browse, search and navigate your JSON files at speed. 🚀](https://app.daily.dev/posts/j2mQwvq0D?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Best Chrome Extensions to boost GitHub](https://app.daily.dev/posts/Ze13S0k8x?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [ngrok - Your code online in one line](https://app.daily.dev/posts/w7DDyGIcL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -55,8 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://app.daily.dev/posts/bpuRFMHtb?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Why you should use Chakra UI in React](https://app.daily.dev/posts/aAOPbdnmL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Best practices to increase the speed for Next.js apps](https://app.daily.dev/posts/tOZKn2_71?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [React v18.0 – React Blog](https://app.daily.dev/posts/aawnY58HD?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Scopes In Javascript.](https://app.daily.dev/posts/8XD2eALtu?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
