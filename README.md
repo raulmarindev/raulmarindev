@@ -47,6 +47,7 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 ## 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Sessions vs JWTs - A Complete Guide to Authentication](https://app.daily.dev/posts/rVQyjbqIB?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [The Complete Modern React Developer 2022](https://app.daily.dev/posts/sF0BDViNQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [GraphQL is a Trap?](https://app.daily.dev/posts/dCQ3WScLP?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [18 GitHub Repositories to Become a CSS Master 🎨🧙‍♂️](https://app.daily.dev/posts/R_IxiOTLE?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -56,7 +57,6 @@ My favorite ones are React, TypeScript, ASP.Net Core, Node.js, Next.js, Svelte a
 - [Best Chrome Extensions to boost GitHub](https://app.daily.dev/posts/Ze13S0k8x?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [ngrok - Your code online in one line](https://app.daily.dev/posts/w7DDyGIcL?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [3 Design Patterns Every Developer Should Learn](https://app.daily.dev/posts/Iq36FCdDZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Those HTML Elements You Never Use 🌚🕵🏿](https://app.daily.dev/posts/uQ1mWUmvI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ## 🧰 My Favorite Tools
