@@ -11,7 +11,7 @@
 
 🔭 &nbsp;I’m currently working on **Mentoring** and guiding a few **amazing junior developers**
 
-🌱 &nbsp;I’m currently learning **Svelte**
+🌱 &nbsp;I’m currently learning **Python**
 
 💬 &nbsp;Ask me about anything related to **Javascript/Typescript** or **React/NextJS**
 
