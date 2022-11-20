@@ -2,8 +2,8 @@
 
 ### An experienced web developer who loves mentoring and guiding other devs.
 
+<!-- <a href="https://twitter.com/raulmarindev" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="raulmarindev twitter"  /></a> -->
 <a href="https://dev.to/raulmarindev" target="blank"><img align="center" src="https://img.icons8.com/windows/48/000000/dev.png" alt="raulmarindev dev.to" /></a>
-<a href="https://twitter.com/raulmarindev" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="raulmarindev twitter"  /></a>
 <a href="https://linkedin.com/in/raulmarindev" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="raulmarindev linkedin" /></a>
 <a href="https://stackoverflow.com/users/9123724" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="raulmarindev stackoverflow" /></a>
 
@@ -15,7 +15,7 @@
 
 💬 &nbsp;Ask me about anything related to **Javascript/Typescript** or **React/NextJS**
 
-📫 &nbsp;One way to reach me: [@raulmarindev](https://twitter.com/raulmarindev)
+📫 &nbsp;One way to reach me: [@raulmarindev](https://www.linkedin.com/in/raulmarindev/)
 
 ⚡ &nbsp;Fun fact: I love my 2 :cat:s and I read a lot (a lot) 📚
 
@@ -23,7 +23,7 @@
 
 <a href="https://app.daily.dev/raulmarindev"><img align='right' src="https://api.daily.dev/devcards/bdcad6e80367482b9836659daa2114f1.png?r=9q8" width="200" alt="Raúl Marín's Dev Card"/></a>
 
-<a href="https://twitter.com/raulmarindev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raulmarindev?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
+<!-- <a href="https://twitter.com/raulmarindev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raulmarindev?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a> -->
 
 ## 🥞 My Tech Stack
 
