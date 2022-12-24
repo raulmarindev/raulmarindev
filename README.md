@@ -24,14 +24,16 @@
 
 <!-- <a href="https://twitter.com/raulmarindev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/raulmarindev?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a> -->
 
-## 🥞 My Tech Stack
+### 🥞 My Tech Stack
 
 I work with many different technologies and languages.
 My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Vercel.
 
 [![My Skills](https://skillicons.dev/icons?i=cs,css,deno,dotnet,git,github,html,js,nodejs,react,nextjs,py,sass,ts,mongodb)](https://skillicons.dev)
 
-## 🔖 My daily.dev Bookmarks
+---
+
+### 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
 - [Conditional wrapping in React](https://app.daily.dev/posts/SoVkgaYUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -46,7 +48,9 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 - [How to detect dead code in a frontend project](https://app.daily.dev/posts/OqwGWN_j3?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
-## 🧰 My Favorite Tools
+---
+
+### 🧰 My Favorite Tools
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visual studio code"/>
@@ -57,8 +61,10 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 <img src="https://img.icons8.com/color/48/000000/trello.png" alt="trello"/>
 </p>
 
-## 💻 My Stats 
+---
+
+### 💻 My Public Stats (my work in public repos)
  
-[![raulmarindev's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulmarindev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=raulmarindev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <sub>Some Icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer nofollow">icons8.com</a></sub>
