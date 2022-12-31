@@ -36,6 +36,7 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 ### 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [11 Tips That Make You a Better Typescript Programmer](https://app.daily.dev/posts/9zihDwvqR?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Conditional wrapping in React](https://app.daily.dev/posts/SoVkgaYUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [You Might Not Need an Effect](https://app.daily.dev/posts/mD7GT5hkx?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Authentication in React 18 using Firebase v9](https://app.daily.dev/posts/71kKShdg5?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -45,7 +46,6 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 - [The Complete Modern React Developer 2022](https://app.daily.dev/posts/sF0BDViNQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [GraphQL is a Trap?](https://app.daily.dev/posts/dCQ3WScLP?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [18 GitHub Repositories to Become a CSS Master 🎨🧙‍♂️](https://app.daily.dev/posts/R_IxiOTLE?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [How to detect dead code in a frontend project](https://app.daily.dev/posts/OqwGWN_j3?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ---
