@@ -36,6 +36,7 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 ### 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [React, visualized – react.gg](https://app.daily.dev/posts/BisSpev15?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Advanced JavaScript Functions to Improve Code Quality](https://app.daily.dev/posts/5oG1Ralxl?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [11 Tips That Make You a Better Typescript Programmer](https://app.daily.dev/posts/9zihDwvqR?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Conditional wrapping in React](https://app.daily.dev/posts/SoVkgaYUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -45,7 +46,6 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 - [5 Rules to master ‘this’ in Javascript](https://app.daily.dev/posts/Bt8SRlN9-?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Sessions vs JWTs - A Complete Guide to Authentication](https://app.daily.dev/posts/rVQyjbqIB?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [The Complete Modern React Developer 2022](https://app.daily.dev/posts/sF0BDViNQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [GraphQL is a Trap?](https://app.daily.dev/posts/dCQ3WScLP?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ---
