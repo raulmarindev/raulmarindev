@@ -36,6 +36,7 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 ### 🔖 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Is React becoming opinionated?](https://app.daily.dev/posts/KwJgkDtgw?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [The React Ecosystem in 2023](https://app.daily.dev/posts/t1C5BTE1Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Patterns.dev](https://app.daily.dev/posts/WRJzJ5ycD?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [I made Express faster than Fastify &lpar;100x faster JSON, also NestJS&rpar;](https://app.daily.dev/posts/q6gigWc2X?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
@@ -45,7 +46,6 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 - [Conditional wrapping in React](https://app.daily.dev/posts/SoVkgaYUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [You Might Not Need an Effect](https://app.daily.dev/posts/mD7GT5hkx?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Authentication in React 18 using Firebase v9](https://app.daily.dev/posts/71kKShdg5?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [The Surprising Truth About Pixels and Accessibility](https://app.daily.dev/posts/KJ6qDeaOU?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 <!-- daily.dev BOOKMARKS:END -->
 
 ---
