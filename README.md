@@ -38,7 +38,7 @@ My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Ver
 <!-- daily.dev BOOKMARKS:START -->
 - [Is React becoming opinionated?](https://app.daily.dev/posts/KwJgkDtgw?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [The React Ecosystem in 2023](https://app.daily.dev/posts/t1C5BTE1Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
-- [Patterns.dev](https://app.daily.dev/posts/WRJzJ5ycD?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
+- [Patterns.dev ⏐ Resources](https://app.daily.dev/posts/WRJzJ5ycD?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [I made Express faster than Fastify &lpar;100x faster JSON, also NestJS&rpar;](https://app.daily.dev/posts/q6gigWc2X?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [React, visualized – react.gg](https://app.daily.dev/posts/BisSpev15?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
 - [Advanced JavaScript Functions to Improve Code Quality](https://app.daily.dev/posts/5oG1Ralxl?utm_source=rss&utm_medium=bookmarks&utm_campaign=24f3bf992b6e46c188b91e9cf4b7cd01)
