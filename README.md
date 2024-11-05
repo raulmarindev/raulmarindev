@@ -24,4 +24,4 @@ Blending tech innovation with mindfulness for optimal solutions.
 
 Let's innovate together. Reach out for collaborations or tech discussions.
 
-[hi@raulmarin.dev](mailto:hi@raulmarin.dev) | [LinkedIn](https://www.linkedin.com/in/raulmarindev) | [Twitter](https://www.twitter.com/raulmarindev)
+[hi@raulmarin.dev](mailto:hi@raulmarin.dev) | [LinkedIn](https://www.linkedin.com/in/raulmarindev) | [BlueSky](https://bsky.app/profile/raulmarin.dev) | [Twitter](https://www.twitter.com/raulmarindev)
