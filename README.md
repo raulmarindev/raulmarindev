@@ -18,6 +18,7 @@
 
 ### Featured Projects
 🌟 Spectrify - FastAPI, React, TypeScript, Machine Learning
+
 🔧 Ivium Tech Library - Node.js, Python
 
 Blending tech innovation with mindfulness for optimal solutions.
