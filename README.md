@@ -17,7 +17,7 @@
 🧠 AI integration | Meditation practitioner
 
 ### Featured Projects
-🌟 NextGen Web App - React, TypeScript, AI
+🌟 Spectrify - FastAPI, React, TypeScript, Machine Learning
 🔧 Ivium Tech Library - Node.js, Python
 
 Blending tech innovation with mindfulness for optimal solutions.
